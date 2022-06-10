@@ -1,0 +1,7 @@
+{
+  "DevelopmentEnvironment": {
+    "EnvironmentName": "Development",
+    "ConnectionString": "Data Source=127.0.0.1;Initial Catalog=testdb;User ID=LoginTest;Password=123456789/a;Trust Server Certificate=True"
+  }
+
+}

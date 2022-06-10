@@ -1,0 +1,9 @@
+{
+  "StagingEnvironment": {
+
+    "EnvironmentName": "Staging",
+    "ConnectionString": "Data Source=127.0.0.1;Initial Catalog=josedb;User ID=LoginTest;Password=123456789/a;Trust Server Certificate=True"
+
+  }
+
+}

@@ -1,0 +1,8 @@
+{
+  "ProductionEnvironment": {
+
+    "EnvironmentName": "Production",
+    "ConnectionString": "Data Source=127.0.0.1;Initial Catalog=UD_09;User ID=LoginTest;Password=123456789/a;Trust Server Certificate=True"
+
+  }
+}
